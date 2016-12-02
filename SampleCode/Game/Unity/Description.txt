@@ -1,0 +1,1 @@
+The C# files I have included are samples from code I wrote for Astro Clash Cosmo Smash, which won the Grand Prize at Indie Galactic Space Jam (sponsored by Space Florida, Kennedy Space Center, Microsoft, and RedBull).  ACCS is a fast paced, 2D zero-gravity arena sport for astronauts. More on this game can be found at https://itch.io/jam/indiegalactic2015/rate/33438

@@ -1,0 +1,1 @@
+The C files included in this folder use a linked list representation of strings to perform string transformations.  The program captures command line arguments, converts strings to linked lists, replaces any given node in a linked list (even the head or the tail), and reverses a linked list.
