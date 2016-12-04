@@ -1,7 +1,4 @@
-// Haley Landon
-// Ha245096
-// Assignment 3
-// Fall 2015
+
 
 #include <stdio.h>
 #include <string.h>
