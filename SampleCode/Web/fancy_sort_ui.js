@@ -8,11 +8,11 @@ jQuery(document).ready(function($) {
 	
     var i = 1;
 	var $tabs = $('.nav-tabs a');    
-    var $container = $('.ll-links-page-relevance-links-container');
+    var $container = $('.links-container');
     
     
 	$container.each(function() {
-		var outerContainerClass = "#"+i+"ll-links-page-relevance-links-container";
+		var outerContainerClass = "#"+i+"links-container";
 
 		var $grid = $(outerContainerClass).isotope({
 		  // options
